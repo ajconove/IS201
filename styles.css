@@ -10,7 +10,9 @@ h1  {
     margin: .3em;
     width: 290px;
   }
-  
+  Div {text-decoration: underline}
+div {color: azure}
+div {border-bottom: white}
   th {
     padding: .2em;
   }
